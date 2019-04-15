@@ -52,3 +52,4 @@ Web安全相关题目
 - https://github.com/ngalongc/bug-bounty-reference
 - https://github.com/djadmin/awesome-bug-bounty
 - https://github.com/jwx0539/hackingLibrary
+- https://github.com/Micropoor/Micro8
