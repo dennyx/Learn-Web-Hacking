@@ -56,5 +56,5 @@
 --------------------------------
 1. 全程burpsuite代理
 2. 浏览器console打开看时间轴及debug信息
-3. 没头绪时，wa3f & golismero来一发
+3. 没头绪时，w3af & golismero来一发
 4. 挨个干不要停
