@@ -3,6 +3,15 @@
 * 基于https://github.com/LyleMi/Learn-Web-Hacking 进行修改，感谢LyleMi大神的分享.
 * LyleMi笔记的在线版本 https://websec.readthedocs.io .
 
+### 本地编译
+
+```bash
+git clone https://github.com/LyleMi/Learn-Web-Hacking.git
+cd Learn-Web-Hacking
+pip install -r requirements.txt
+make local
+```
+
 ### TODO
 
 * 增加论坛/其他资料信息
@@ -12,15 +21,6 @@
 ### Visual Studio code
 
 * Table Formatter -> table:format current
-
-### 本地编译
-
-```bash
-git clone https://github.com/LyleMi/Learn-Web-Hacking.git
-cd Learn-Web-Hacking
-pip install -r requirements.txt
-make local
-```
 
 ### 笔记大纲
 
