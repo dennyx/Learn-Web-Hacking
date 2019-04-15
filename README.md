@@ -18,6 +18,10 @@ make local
 * 增加src平台信息
 * 针对各类型，增加hackerone/wooyun实例
 
+### Visual Studio code
+
+* Table Formatter -> table:format current
+
 ### 笔记大纲
 
 1. 基础知识

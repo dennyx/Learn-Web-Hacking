@@ -22,6 +22,16 @@ Bug Bounty
 - https://www.synack.com/
 - https://cobalt.io/
 
+Src
+--------------------------------
++------+----------------------------+----------------------+--------+
+| Name |            URL             |        公众号        | Remark |
++======+============================+======================+========+
+| 瓜子 | https://security.guazi.com | 瓜子安全应急响应中心 |        |
++------+----------------------------+----------------------+--------+
+| 58   | https://security.58.com    | 58安全应急响应中心   |        |
++------+----------------------------+----------------------+--------+
+
 Web安全相关题目
 --------------------------------
 - https://github.com/orangetw/My-CTF-Web-Challenges
@@ -32,3 +42,4 @@ Web安全相关题目
 - https://github.com/tsug0d/MyAwesomeWebChallenge
 - https://github.com/a0xnirudh/kurukshetra
 - http://www.xssed.com/
+- https://github.com/swisskyrepo/PayloadsAllTheThings
