@@ -81,8 +81,8 @@
 ```bash
 git clone https://github.com/LyleMi/Learn-Web-Hacking.git
 cd Learn-Web-Hacking
-pip install sphinx sphinx-rtd-theme
-make html
+pip install -r requirements.txt
+make local
 ```
 
 ### 注

@@ -6,6 +6,7 @@
    :caption: Contents:
 
    sql/index
+   nosql/index
    xss/index
    csrf
    ssrf
