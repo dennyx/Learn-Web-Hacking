@@ -12,6 +12,12 @@ pip install -r requirements.txt
 make local
 ```
 
+### TODO
+
+* 增加论坛/其他资料信息
+* 增加src平台信息
+* 针对各类型，增加hackerone/wooyun实例
+
 ### 笔记大纲
 
 1. 基础知识
