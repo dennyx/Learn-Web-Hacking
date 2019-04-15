@@ -6,7 +6,7 @@
 ### 本地编译
 
 ```bash
-git clone https://github.com/LyleMi/Learn-Web-Hacking.git
+git clone https://github.com/dennyx/Learn-Web-Hacking.git
 cd Learn-Web-Hacking
 pip install -r requirements.txt
 make local
