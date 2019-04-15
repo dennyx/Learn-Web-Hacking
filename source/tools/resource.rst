@@ -32,6 +32,11 @@ Src
 | 58   | https://security.58.com    | 58安全应急响应中心   |        |
 +------+----------------------------+----------------------+--------+
 
+forum
+--------------------------------
+- 先知 https://xz.aliyun.com
+- 土司 https://www.t00ls.net
+
 Web安全相关题目
 --------------------------------
 - https://github.com/orangetw/My-CTF-Web-Challenges
