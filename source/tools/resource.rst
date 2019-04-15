@@ -49,3 +49,6 @@ Web安全相关题目
 - https://github.com/a0xnirudh/kurukshetra
 - http://www.xssed.com/
 - https://github.com/swisskyrepo/PayloadsAllTheThings
+- https://github.com/ngalongc/bug-bounty-reference
+- https://github.com/djadmin/awesome-bug-bounty
+- https://github.com/jwx0539/hackingLibrary
