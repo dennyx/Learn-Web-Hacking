@@ -1,7 +1,7 @@
 # Web安全学习笔记
 
 * 基于https://github.com/LyleMi/Learn-Web-Hacking 进行修改，感谢LyleMi大神的分享.
-* LyleMi笔记的在线版本 https://websec.readthedocs.io .
+* LyleMi大神笔记的在线版本 https://websec.readthedocs.io .
 
 ### 本地编译
 
