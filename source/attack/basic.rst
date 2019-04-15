@@ -16,11 +16,11 @@
     a. 目标：src公告中的测试范围
     b. 工具：nmap
     c. 福利：注意子域名和主域名不同ip的机器
-3. 爆web路径
+4. 爆web路径
     a. 目标
     b. 工具：dirsearch
     c. 福利：关注403/500/302结果
-4. 爆api路径
+5. 爆api路径
     a. 目标：JS文件/apk
     b. 工具:
         1. 利用LinkFinder查找JS中的接口信息
@@ -29,17 +29,17 @@
     c. 福利：
         1. 无权限加持的api
         2. 扩大测试范围
-5. 搜索设备信息
+6. 搜索设备信息
     a. 目标
     b. 工具：shodan.io
     c. 福利：关注隐藏c段ip，扩大搜索范围
-6. 技术架构
+7. 技术架构
     a. 目标: 网站
     b. 工具：Wappalyzer(chrome插件)
     c. 福利:
         1. 架构版本对应的cve
         2. 各技术隐藏目录
-7. github
+8. github
     a. 目标：github
     b. 工具： github
     c. 福利：
