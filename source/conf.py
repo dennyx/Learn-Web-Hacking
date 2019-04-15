@@ -37,7 +37,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Web安全学习笔记'
+project = u'安全学习笔记'
 copyright = u'2019, Dennyx'
 author = u'Dennyx'
 
