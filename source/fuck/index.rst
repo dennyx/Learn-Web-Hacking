@@ -7,3 +7,4 @@
 
    target
    fucking
+   targets/index
