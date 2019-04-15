@@ -25,6 +25,10 @@
     b. 工具:
         1. 利用LinkFinder查找JS中的接口信息
         2. 爆apk获取接口信息
+        3. 手工根据main文件获取所有js文件，然后利用vs code格式化，查看业务逻辑
+    c. 福利：
+        1. 无权限加持的api
+        2. 扩大测试范围
 5. 搜索设备信息
     a. 目标
     b. 工具：shodan.io
@@ -32,6 +36,9 @@
 6. 技术架构
     a. 目标: 网站
     b. 工具：Wappalyzer(chrome插件)
+    c. 福利:
+        1. 架构版本对应的cve
+        2. 各技术隐藏目录
 7. github
     a. 目标：github
     b. 工具： github
