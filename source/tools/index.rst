@@ -12,3 +12,4 @@
    traffic
    sniffing
    sqlmap
+   w3af
