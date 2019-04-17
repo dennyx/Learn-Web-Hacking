@@ -11,3 +11,4 @@
    http
    aduit
    waf
+   mindmap
