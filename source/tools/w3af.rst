@@ -1,9 +1,10 @@
 w3af
 ================================
 
-Install 
+Installation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. code-block:: shell
+
     git clone https://github.com/andresriancho/w3af.git sqlmap
     apt-get install libxml2-dev libxslt-dev zlib1g-dev npm libegl1-mesa libegl1-mesa-dev
     npm i -g npm

@@ -13,3 +13,6 @@
    sniffing
    sqlmap
    w3af
+   dirsearch
+   subDomainsBrute
+   fuxi-scanner
