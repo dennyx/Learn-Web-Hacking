@@ -5,6 +5,6 @@
    :maxdepth: 2
    :caption: Contents:
 
-   target
+   src
    fucking
    targets/index
