@@ -53,3 +53,4 @@ Web安全相关题目
 - https://github.com/djadmin/awesome-bug-bounty
 - https://github.com/jwx0539/hackingLibrary
 - https://github.com/Micropoor/Micro8
+- https://github.com/dennyx/mst-sec-lecture-notes
