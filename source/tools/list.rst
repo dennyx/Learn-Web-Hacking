@@ -289,6 +289,7 @@ XSS
 - `js xss <https://github.com/leizongmin/js-xss>`_
 - `DOMPurify <https://github.com/cure53/DOMPurify>`_
 - `google csp evaluator <https://csp-evaluator.withgoogle.com/>`_
+- `xssStrike <https://github.com/dennyx/XSStrike>`_
 
 配置检查
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

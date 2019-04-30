@@ -15,6 +15,7 @@ Blog
 - https://portswigger.net/blog
 - https://www.hackerone.com/blog
 - https://evilwing.me/2018/12/13/web-fuzz/
+- 知道创宇 https://paper.seebug.org/
 
 Bug Bounty
 --------------------------------
